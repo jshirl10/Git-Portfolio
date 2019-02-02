@@ -1,0 +1,127 @@
+/*:root {
+  --menuHeight = 60px;
+}*/
+
+a {
+  background-color: #b3c2bf !important;
+}
+.bg-light {
+  background-color: #b3c2bf !important;
+}
+button {
+  background-color: #3b3a36 !important;
+  color: #e9ece5 !important;
+}
+.active {
+  background-color: #b3c2bf !important;
+  color: #b3c2bf !important;
+}
+.navbar-brand {
+  color: 	#3b3a36 !important;
+  font: 500 40px/0.8 'Great Vibes', Helvetica, sans-serif;
+  text-shadow: 4px 4px 3px rgba(0,0,0,0.1);
+  margin-right: 35px;
+}
+body {
+  background-color: #e9ece5;
+}
+h1 {
+  font-size: 75px;
+  font-family: 'Dekko';
+  text-align: center;
+  color: #3b3a36;
+  margin-top: 20px;
+}
+.listing-sections {
+  font-family: 'Dekko';
+  text-align: center;
+  color: #3b3a36;
+}
+h2 {
+  font-size: 45px;
+}
+.form-inline {
+  /*padding-left: 625px !important;*/
+}
+
+p {
+  font-family: 'Dekko';
+  text-align: center;
+  color: #3b3a36;
+  font-size: 25px;
+  padding: 15px 150px 15px 150px;
+}
+h6 {
+  font-family: 'Dekko';
+  text-align: center;
+  color: #3b3a36;
+  font-size: 20px;
+}
+.row {
+  font-size: 70px;
+  text-align: center;
+}
+.col {
+  display: grid;
+  grid-gap: 10px;
+  font-family: 'Dekko';
+  text-align: center;
+  color: #3b3a36;
+  background-color: #b3c2bf;
+  margin-left: 5px;
+  margin-right: 5px;
+  margin-top: 10px;
+  padding: 75px;
+}
+img {
+  width: 60%;
+}
+.col a {
+  color: #3b3a36;
+  background-color: #111;
+  text-decoration: none;
+  text-align: center;
+}
+.previous-projects {
+  display: grid;
+  grid-template: auto auto auto auto auto / 1fr 1fr 1fr;
+  grid-gap: 10px;
+  background-color: #e9ece5;
+  padding: 10px;
+}
+
+.image img {
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  height: 494.43px;
+}
+section {
+  padding: 20px;
+}
+.container {
+  padding-bottom: 25px;
+}
+.body-home {
+  background-image: url("https://images.unsplash.com/photo-1547762048-9276340a1a10?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80");
+}
+.listing-sections img {
+  padding: 25px;
+}
+.front-page-note {
+  color: #FFFFFF;
+}
+.lys-and-kort {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  padding-bottom: 20px;
+}
+ul {
+  font-family: 'Dekko';
+  text-align: center;
+  color: #3b3a36;
+  font-size: 25px;
+  list-style-type: none;
+}
